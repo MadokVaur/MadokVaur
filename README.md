@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MadokVaur -- but you knew that, right?
 - 👀 I’m interested in Mastodon, the Fediverse, Info Sec, the Internet
 - 🌱 I’m currently learning how to read and interpret what's here on Github ;)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... watching you work :)
 - 📫 How to reach me: as FinchHaven on Mastodon: @ FinchHaven @ hachyderm.io on Hachyderm. Also MadokVaur on Discord and Twitch (not a streamer)
 
 <!---
